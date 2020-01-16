@@ -1,0 +1,31 @@
+# https://www.nerdfonts.com/cheat-sheet
+
+# git
+export SPACESHIP_GIT_SYMBOL='\ue725 '
+
+# node
+export SPACESHIP_NODE_SYMBOL='\ue718 '
+
+# ruby
+export SPACESHIP_RUBY_SYMBOL='\ue605 '
+
+# go
+export SPACESHIP_GOLANG_SYMBOL='\ue627 '
+
+# php
+export SPACESHIP_PHP_SYMBOL='\uf81e '
+
+# docker
+export SPACESHIP_DOCKER_SYMBOL='\uf308 '
+
+# aws
+export SPACESHIP_AWS_SYMBOL='\ue7ad '
+
+# pyenv
+export SPACESHIP_PYENV_SYMBOL='\ue73c '
+
+# ember
+export SPACESHIP_EMBER_SYMBOL='\ue71b '
+
+# package
+export SPACESHIP_PACKAGE_SYMBOL='\uf8d6 '
