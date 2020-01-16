@@ -1,0 +1,8 @@
+*
+!.gitignore
+
+!.nvm_sh
+!.pipenv_sh
+!.rvmrc
+!.spaceshiprc
+!.zshrc
